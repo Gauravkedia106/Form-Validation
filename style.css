@@ -1,0 +1,50 @@
+body{
+    background-color: #3498db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+#form-cotainer{
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+    
+
+
+
+}
+h2{
+    margin: 0px 0px 10px 0px;
+
+}
+input,button{
+    width: 200px;
+    margin: 10px 0px;
+    padding: 10px;
+
+}
+button{
+    border-radius: 12px;
+    width: 222px;
+    background-color: #3498db;
+    border: 0px;
+    color: white;
+    
+
+
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+.error{
+    color: red;
+    margin: 0px;
+    text-align: left;
+
+
+}
